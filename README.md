@@ -2,4 +2,4 @@
 
 Nesneye Dayali Programlama Dersi Proje Ödevi
 
-Ödev icergine [burdan](https://github.com/halilkeklik/Hayvan-Ciftligi/blob/master/Aciklama.pdf) erisebilirisniz.
+Ödev içerğine [buradan](https://github.com/halilkeklik/Hayvan-Ciftligi/blob/master/Aciklama.pdf) erişebilirisniz.
